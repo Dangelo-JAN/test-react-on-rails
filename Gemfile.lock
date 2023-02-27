@@ -180,7 +180,7 @@ GEM
       rubyzip (>= 1.2.2, < 3.0)
       websocket (~> 1.0)
     semantic_range (3.0.0)
-    shakapacker (6.5.5)
+    shakapacker (6.5.6)
       activesupport (>= 5.2)
       rack-proxy (>= 0.6.1)
       railties (>= 5.2)
@@ -226,7 +226,7 @@ DEPENDENCIES
   rails (~> 7.0.4, >= 7.0.4.1)
   react_on_rails
   selenium-webdriver
-  shakapacker
+  shakapacker (= 6.5.6)
   sprockets-rails
   tzinfo-data
   web-console

@@ -62,6 +62,6 @@ group :test do
   gem "webdrivers"
 end
 
-gem "shakapacker"
+gem "shakapacker", "= 6.5.6"
 
 gem "react_on_rails"
